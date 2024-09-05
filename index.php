@@ -11,5 +11,5 @@
 </html>
 
 <?php
-    echo "sample text";
+    echo "test by garilao";
 ?>
