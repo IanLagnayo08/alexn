@@ -11,5 +11,7 @@
 </html>
 
 <?php
-    echo "sample text";
+    echo "test by gariladadadadsasao";
+    echo "sample texsasasdsat";
+    echo "sample 2ndadadadadadssa";
 ?>
