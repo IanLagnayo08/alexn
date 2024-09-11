@@ -71,3 +71,27 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+
+.View-styles{
+    padding: 0px;
+    width: 100%;
+    margin-left: 0px;
+}
+
+
+.Back-styles button{
+    position: absolute;
+    top: 15px;
+    left: 25px;
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 10%;   
+    
+}
+
+.Back-styles :hover{
+    background-color: #0056b3;
+}
